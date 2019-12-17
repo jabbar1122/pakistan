@@ -1,0 +1,30 @@
+body{  padding:0px;}
+
+.top{ background:#C58612;}
+
+.side{ color:#C58612; }
+
+.side h2{ padding-top:30px; text-align:center; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:25px}
+
+.menu{}
+
+.menu ul{}
+
+.menu ul li{}
+
+.menu ul li a{}
+
+.banner{}
+
+.banner img{ width:1300px; height:500px; text-align:center;}
+
+.places{ background:#66666; }
+
+.pics{ float:left; margin-left:50px; padding:50px;}
+
+.img{}
+
+.h2{ }
+
+.p{ }
+
